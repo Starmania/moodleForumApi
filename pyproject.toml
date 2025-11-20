@@ -1,0 +1,11 @@
+[project]
+name = "moodle-forums-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "bs4>=0.0.2",
+    "html-to-markdown>=1.8.0",
+    "httpx>=0.28.1",
+]
